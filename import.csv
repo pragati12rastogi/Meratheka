@@ -1,0 +1,2 @@
+product name,product image,product_related_img,seller name,categoryid,subcategoryid,small description,product range(join with $;),product price (join with $;),in stock ? (yes=1 or no=0),status (publish=1 or unpublish=0),discount,popular? (yes=1 or no=0),,
+ARTIC VODKA ,C:\Users\hp\Downloads\Vodka\ARTIC VODKA.png,"C:\Users\hp\Downloads\Vodka\ARTIC VODKA.png,C:\Users\hp\Downloads\Vodka\ARTIC VODKA.png",test,VODKA,ARTIC VODKA ,test test,60 ML$;180 ML$;750 ML ,70$;210$;840,1,1,0,0,,

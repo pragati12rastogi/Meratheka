@@ -87,7 +87,6 @@ require 'include/front_header.php';
 
     
    <?php 
-   require 'include/js.php';
    ?>
    
   </body>
